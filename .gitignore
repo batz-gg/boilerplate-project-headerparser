@@ -2,3 +2,4 @@ node_modules
 .gitattributes
 .prettierignore
 package-lock.json
+yarn.lock
